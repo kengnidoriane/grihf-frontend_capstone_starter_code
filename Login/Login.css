@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-    background-color: white;
+    background-color: #e3dcdc;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -73,4 +73,8 @@ button:hover {
 
 .message a:hover {
     text-decoration: underline;
+}
+
+p {
+    text-align: center;
 }
